@@ -12,3 +12,5 @@ A custom cost function ensures the safety of the robot by keeping the robot's ro
 - **Extensive Evaluation:** Thoroughly tested in simulation and real-world experiments, demonstrating high efficiency and performance.
 
 ### Code wil be released soon. 
+
+[![Watch the video](https://img.youtube.com/vi/-WshttryWQ0/0.jpg)](https://youtu.be/-WshttryWQ0)
